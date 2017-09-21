@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.shiro:shiro-hazelcast:1.3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.shiro/shiro-hazelcast/1.3.2/bdc9c3a8afe9f7513eb495041a55ba1ac9e9be1f/shiro-hazelcast-1.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.shiro/shiro-hazelcast/1.3.2/bb1866826cd20dcdb558bc7b9b705daef91de8e0/shiro-hazelcast-1.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

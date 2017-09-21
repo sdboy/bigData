@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigData.iml" filepath="$PROJECT_DIR$/.idea/modules/bigData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bigData/.idea/modules/bigData_main.iml" filepath="$PROJECT_DIR$/../bigData/.idea/modules/bigData_main.iml" group="bigData" />
+      <module fileurl="file://$PROJECT_DIR$/../bigData/.idea/modules/bigData_test.iml" filepath="$PROJECT_DIR$/../bigData/.idea/modules/bigData_test.iml" group="bigData" />
+    </modules>
+  </component>
+</project>

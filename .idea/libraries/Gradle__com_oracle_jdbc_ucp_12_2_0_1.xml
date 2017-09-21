@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.oracle.jdbc:ucp:12.2.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.oracle.jdbc/ucp/12.2.0.1/860bd44a5a593385464a49590169bee81c4482a9/ucp-12.2.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
